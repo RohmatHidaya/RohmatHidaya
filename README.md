@@ -1,8 +1,8 @@
-<div align="center">
-  <img height="" widht="" src="gif1.gif"  />
-</div>
-
 <h2 align="left">Hi 👋! My name is Rohmat Hidayat Yusuf and I'm a unemployment, from Indonesia</h2>
+
+<div align="center">
+  <img height="" widht="" src="divineGeneral.gif"  />
+</div>
 
 ###
 
@@ -41,6 +41,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RohmatHidaya&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohmatHidaya&radius=16&theme=github-light&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohmatHidaya/RohmatHidaya/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RohmatHidaya/RohmatHidaya/output/pacman-contribution-graph.svg">
@@ -51,7 +58,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31ius2vpnegfuhu7qbrsoinqquji">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ius2vpnegfuhu7qbrsoinqquji&unique={true|1|on|yes}" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ius2vpnegfuhu7qbrsoinqquji&count=1" alt="Spotify recently played"  />
   </a>
 </div>
 
