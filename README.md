@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="gif1.gif"  />
+  <img height="" widht="" src="gif1.gif"  />
 </div>
 
 <h2 align="left">Hi 👋! My name is Rohmat Hidayat Yusuf and I'm a unemployment, from Indonesia</h2>
