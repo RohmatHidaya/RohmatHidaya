@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Rohmat Hidayat Yusuf and I'm a unemployment, from Indonesia</h2>
 
 <div align="center">
-  <img height="260" src="fuga.gif"  />
+  <img src="fuga.gif"  />
 </div>
 
 ###
