@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rohmat Hidayat Yusuf and I'm a unemployment, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Rohmat Hidayat Yusuf from Indonesia</h2>
 
 <div align="center">
   <img src="fuga.gif"  />
