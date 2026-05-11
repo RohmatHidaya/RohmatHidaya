@@ -1,6 +1,6 @@
 ###
 <div align="center">
-  <img src="fuga.gif"  />
+  <img src="divineGeneral.gif"  />
 </div>
 
 ###
